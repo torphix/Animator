@@ -1,0 +1,10 @@
+feature2mouth:
+  lstm: 
+    batch_first: True
+    input_size: 512
+    hidden_size: 256
+    num_layers: 3
+    dropout: 0.2
+
+feature2head:
+  
